@@ -1,0 +1,1 @@
+PoolArea,ScreenPorch,3SsnPorch,EnclosedPorch,OpenPorchSF,WoodDeckSF,GarageArea,GrLivArea,LowQualFinSF,BsmtFinSF1,2ndFlrSF,1stFlrSF,TotalBsmtSF,BsmtUnfSF,BsmtFinSF2,MasVnrArea,LotArea,FullBath,BsmtHalfBath,BsmtFullBath,BedroomAbvGr,SalePrice
